@@ -10,6 +10,7 @@
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>sc-gateway</module>
+        <module>sc-demo</module>
     </modules>
 
     <properties>
